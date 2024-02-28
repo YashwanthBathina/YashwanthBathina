@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... Devops And Aws
 - 🌱 I’m currently learning ... Devops/Aws
 - 💞️ I’m looking to collaborate on ... Devops And Aws
-- 📫 How to reach me ...
-- 😄 Pronouns: ... Call me Yashwanth
+- 📫 How to reach me ... yashwanthbathina6@gmail.com
+- 😄  Call me Yashwanth
 - ⚡ Fun fact: You Can Give Any Advice On Devops And Aws 
 
 <!---
