@@ -1,4 +1,4 @@
-[![MasterHead]([https://artpictures.club/autumn-2023.html](https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif))
+![Header](./[https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif])
 <h1 align="center">Hi 👋, I'm Yashwanth Bathina</h1>
 <h3 align="center">A passionate Devops and Cloud developer from India</h3>
 <img align="right" alt="Devops and Cloud" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
