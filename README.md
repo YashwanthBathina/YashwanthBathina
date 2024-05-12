@@ -1,4 +1,4 @@
-[![MasterHead]([[https://www.google.com/url?sa=i&url=http%3A%2F%2Fdeborahberger.co.uk%2Fhttp%2Fklublr.com%2Fena%2Fwelcome-to-my-page-banner-gif&psig=AOvVaw1PqKJqVU8B5QbWH44iQ7Zt&ust=1715590229580000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCw3O_dh4YDFQAAAAAdAAAAABAP](https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif)](https://www.vectorstock.com/royalty-free-vector/welcome-ribbon-banner-vector-47282347))
+[![MasterHead](https://artpictures.club/autumn-2023.html)
 <h1 align="center">Hi 👋, I'm Yashwanth Bathina</h1>
 <h3 align="center">A passionate Devops and Cloud developer from India</h3>
 <img align="right" alt="Devops and Cloud" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
